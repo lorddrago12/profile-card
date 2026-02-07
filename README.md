@@ -53,4 +53,9 @@ To customize this for your own use:
 
 Feel free to use this project for your own personal profile card!
 
+🍿 Preview
+
+![Uploading image.png…]()
+
+
 Made with 💗 by Lord Drago
