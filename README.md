@@ -55,7 +55,7 @@ Feel free to use this project for your own personal profile card!
 
 🍿 Preview
 
-![Uploading image.png…]()
+<img width="907" height="952" alt="image" src="https://github.com/user-attachments/assets/c39d26bc-cd2b-4511-9dfd-f94d888af0ee" />
 
 
 Made with 💗 by Lord Drago
