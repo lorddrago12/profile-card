@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('Assets/background.png');
+    background-image: url('background.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -49,4 +49,5 @@ button:hover {
 
 a {
     text-decoration: none;
+
 }
