@@ -2,8 +2,6 @@
 
 A simple, aesthetic profile card website with a beautiful pink sunset theme.
 
-![Profile Card Preview](Assets/Profile_Picture.jpg)
-
 ## 🌅 Features
 
 - Clean and centered profile card design
