@@ -13,7 +13,7 @@ A simple, aesthetic profile card website with a beautiful pink sunset theme.
 ## 🎨 Technologies Used
 
 * HTML5
-* CSS3
+* CSS
 * Flexbox for centering
 
 ## 📁 Project Structure
@@ -34,7 +34,7 @@ profile-card/
 1. Clone this repository:
 
 ```
-git clone 
+git clone https://github.com/lorddrago12/profile-card.git
 ```
 
 2. Open `index.html` in your browser
