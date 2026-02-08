@@ -34,7 +34,7 @@ profile-card/
 1. Clone this repository:
 
 ```
-git clone https://github.com/lorddrago12/profile-card.git
+git clone 
 ```
 
 2. Open `index.html` in your browser
@@ -52,3 +52,8 @@ To customize this for your own use:
 ## 📝 License
 
 Feel free to use this project for your own personal profile card!
+
+🍿 Preview
+
+<img width="920" height="961" alt="image" src="https://github.com/user-attachments/assets/ebd2bb7f-e351-4c2d-a7a7-306d8e421e0b" />
+
