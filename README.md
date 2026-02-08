@@ -4,17 +4,17 @@ A simple, aesthetic profile card website with a beautiful pink sunset theme.
 
 ## 🌅 Features
 
-- Clean and centered profile card design
-- Beautiful pink sunset background
-- Responsive layout
-- Social media links (Instagram & GitHub)
-- Smooth hover effects on buttons
+* Clean and centered profile card design
+* Beautiful pink sunset background
+* Responsive layout
+* Social media links (Instagram & GitHub)
+* Smooth hover effects on buttons
 
 ## 🎨 Technologies Used
 
-- HTML5
-- CSS3
-- Flexbox for centering
+* HTML5
+* CSS3
+* Flexbox for centering
 
 ## 📁 Project Structure
 
@@ -32,12 +32,12 @@ profile-card/
 ## 🚀 How to Use
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/lorddrago12/profile-card.git
-   ```
+
+```
+git clone https://github.com/lorddrago12/profile-card.git
+```
 
 2. Open `index.html` in your browser
-
 3. That's it! The page should load with all assets.
 
 ## 🎯 Customization
@@ -52,10 +52,3 @@ To customize this for your own use:
 ## 📝 License
 
 Feel free to use this project for your own personal profile card!
-
-🍿 Preview
-
-<img width="907" height="952" alt="image" src="https://github.com/user-attachments/assets/c39d26bc-cd2b-4511-9dfd-f94d888af0ee" />
-
-
-Made with 💗 by Lord Drago
