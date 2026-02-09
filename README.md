@@ -55,5 +55,6 @@ Feel free to use this project for your own personal profile card!
 
 ## 🍿 Preview
 
-<img width="920" height="961" alt="image" src="https://github.com/user-attachments/assets/ebd2bb7f-e351-4c2d-a7a7-306d8e421e0b" />
+<img width="1481" height="1005" alt="image" src="https://github.com/user-attachments/assets/1916771d-7512-41df-a29f-a18db8b633d4" />
+
 
